@@ -1,0 +1,32 @@
+footer{
+    margin-top: 110px;
+    text-align: center;
+}
+
+footer i{
+    font-size: 50px;
+}
+
+#icons{
+    display: flex;
+    gap: 110px;
+    justify-content: center;
+}
+
+.ig{
+    color: white;
+    font-size: 40px;
+    background: linear-gradient(21deg, rgb(254, 246, 0) 0%, rgb(245, 0, 0) 60%, rgb(255, 0, 187) 74%);
+    border-radius: 14px;
+    padding-top: 5px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.tt{
+    color: lightskyblue;
+}
+
+.fb{
+    color: blue;
+}
